@@ -1,0 +1,17 @@
+#blogClass{
+	color: black;
+	background-color: #ebeae8; 
+	size: 30px;
+}
+
+h1 {
+	text-align: center;
+	
+	position: fixed;
+	top: 0;
+	width: 100%;
+}
+
+#delete {
+	color: red;
+}
